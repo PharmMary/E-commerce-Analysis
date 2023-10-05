@@ -35,14 +35,23 @@ The data was gotten from an e-commerce store sales department. Data is made up o
  ## EXPLORATORY DATA ANALYSIS
 ![](https://github.com/PharmMary/E-commerce-Analysis/blob/main/Ecom5.png)
 The category the recoreded the highest order was mobiles and tablets, with over 60,000 orders, which is about 21% of company's entire orders, while books category had the least order of about 0.28%.
+
+
 ![](https://github.com/PharmMary/E-commerce-Analysis/blob/main/Ecom2.png)
 Texas, California,and  New York are the states with the highest Customer Orders, while the states with the least orders include Rhode Island, Delaware and New Hampshire state. 
+
+
 ![](https://github.com/PharmMary/E-commerce-Analysis/blob/main/Ecom1.png)
 The company recorded its highest frequency of order in the month of December of over 81,000, followed by the month of April which recorded over 41,000 and least month is October. The great disparity in the frequency of order between December and other months may be due to the Christmas Celebration which comes up in the month of December
+
+
 ![](https://github.com/PharmMary/E-commerce-Analysis/blob/main/Ecom4.png)
 Over 50% of the customers(newbie) started shopping with the company about 10years ago, while only less than 5% of the customers still place orders from the company for the pass 39years
+
+
 ![](https://github.com/PharmMary/E-commerce-Analysis/blob/main/Ecom3.png)
 Winter Season records the highest customers, about 38.4% followed by Spring, this correlated with the high orders seen in the month of December
+
 
 ## RECOMMENDATIONS
 
